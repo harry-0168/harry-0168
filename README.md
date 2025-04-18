@@ -12,7 +12,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harry-0168&show_icons=true&show=prs_merged,prs_merged_percentage&hide=stars&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-0168&langs_count=8&hide=FreeMarker&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-0168&langs_count=8&hide=FreeMarker&layout=compact&theme=radical" />
 </a>
 
 
@@ -22,8 +22,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harry-0168/harry-0168/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harry-0168/harry-0168/output/github-contribution-grid-snake.svg">
 </picture>
-
-![Snake animation](https://github.com/harry-0168/harry-0168/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **harry-0168/harry-0168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
