@@ -60,7 +60,7 @@ I’m a third-year Computer Science student at the University of Alberta with a 
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=harry-0168&show_icons=true&hide=stars&theme=radical&hide_rank=true" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=harry-0168&show_icons=true&hide=stars,contribs&theme=radical&hide_rank=true" alt="GitHub Stats" height="180"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-0168&layout=compact&theme=radical&hide=FreeMarker" alt="Top Languages" height="180"/>
