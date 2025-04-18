@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>👋 Hi, I’m Harveer (aka harry-0168)</h1>
+  <h1>👋 Hi, I’m Harveer</h1>
 </p>
 
 ---
